@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(187, 154, 218);
+}
+.List {
+    position: relative;
+    background-color: bisque;
+    display: block;
+    justify-content: center;
+    padding-left: 29%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 8%;
+    height: 35rem;
+    // border: 0.5rem groove bisque;
+    border-radius: 1.5rem;
+    
+}
+.main-input {
+    width: 25.5rem;
+    margin-right: 0.5rem;
+    border: none;
+}
+.tasks {
+    border: 0.1rem groove rgb(255, 255, 255);
+    margin-right: 50%;
+    padding-bottom: 15%;
+}
+h2 {
+    opacity: 0;
+}
+button {
+    background-color: orange;
+    border: none;
+    color: antiquewhite;
+}
